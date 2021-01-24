@@ -31,14 +31,14 @@ import { AppCreateComponent } from './app-create/app-create.component';
 import { BlogComponent } from './blog/blog.component';
 
 let firebaseConfig = {
-  apiKey: "AIzaSyCqKcPC4R_qXkZn64i4ieCF20doK9v8GDo",
-  authDomain: "phoenix-72e4e.firebaseapp.com",
-  databaseURL: "https://phoenix-72e4e.firebaseio.com",
-  projectId: "phoenix-72e4e",
-  storageBucket: "phoenix-72e4e.appspot.com",
-  messagingSenderId: "295030545282",
-  appId: "1:295030545282:web:6a8c12b7e6fc9005b44d9b",
-  measurementId: "G-9E6T9SZ2TP"
+  apiKey: "A***********************GDo",
+  authDomain: "******************.com",
+  databaseURL: "https://********************.firebaseio.com",
+  projectId: "********-***********",
+  storageBucket: "********************.com",
+  messagingSenderId: "*******************",
+  appId: "1:***************:web:******************",
+  measurementId: "G-**************"
 };
 
 firebase.initializeApp(firebaseConfig);

@@ -14,7 +14,7 @@ export class HomeComponent implements OnInit {
   dateOfBirth = new Date();
   constructor() { 
     this.alanBtnInstance = alanBtn({
-      key: 'b3a5ea51008ebe672cc58ba14dcd835a2e956eca572e1d8b807a3e2338fdd0dc/stage',
+      key: 'b3a5ea*******************************38fdd0dc/stage',
       onCommand: (commandData: { command: string }) => {
         console.log(commandData);
         if (commandData.command === 'command-example') {
